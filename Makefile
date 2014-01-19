@@ -4,7 +4,7 @@
 # This Makefile automates the building of the project using gradle. It also has functionality for sending the code to the EV3 and running it on it, using the Wifi connection (and SSH).
 
 # This is the name of the Project as well as the main class (the class that contains the main() function where execution begins.
-NAME=Trace
+NAME=Tracer
 
 # We define the various files involved. We use $(NAME) wherever needed so that one need only change that one variable to change everything else.
 
